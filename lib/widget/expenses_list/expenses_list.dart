@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:expenses/widget/expenses_list/expenses_item.dart';
 import 'package:flutter/material.dart';
 import 'package:expenses/models/expense.dart';
